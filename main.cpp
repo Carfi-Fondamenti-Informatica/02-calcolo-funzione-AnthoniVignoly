@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-    float  a;
-    float  b;
-    float  x;
-    float  y;
+    int  a;
+    int  b;
+    int  x;
+    int  y;
     cin >> a >> b >> x >> y;  
    
     if(x<0 && y>0){
