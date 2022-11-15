@@ -6,10 +6,7 @@ int main() {
     float b;
     float  x;
     float  y;
-    
-    a= 5;
-    b= 7;
-    cin >>  x >> y;  
+    cin >> a >> b >> x >> y;  
    
     if(x<0 && y>0){
         cout << ((a*x)-(b*y)) << endl;
