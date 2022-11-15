@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    int  a;
-    int  b;
+    float  a;
+    float b;
     float  x;
     float  y;
     cin >> a >> b >> x >> y;  
