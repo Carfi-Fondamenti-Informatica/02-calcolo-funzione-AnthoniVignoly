@@ -4,8 +4,8 @@ using namespace std;
 int main() {
     int  a;
     int  b;
-    int  x;
-    int  y;
+    float  x;
+    float  y;
     cin >> a >> b >> x >> y;  
    
     if(x<0 && y>0){
