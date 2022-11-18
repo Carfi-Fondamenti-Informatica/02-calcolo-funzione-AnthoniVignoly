@@ -17,7 +17,7 @@ int main() {
         
     } else {
         
-        cout << (a*x)-(b*(y*y)) << endl;
+        cout << ((a*x)+(b*(y*y))) << endl;
     }
    
    
